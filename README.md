@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi there 👋, I'm Ter-er</h1>
 <p align="center">
-  Mechatronics Engineer specializing in backend software development with a passion for solving real-world problems. 
-  I’m particularly interested in building robust backend systems, exploring data science and machine learning, and developing intelligent automation and robotics solutions. Always curious, always creating.
+  Mechatronics Engineer specializing in Backend Software Development with a passion for solving real-world problems. 
+  I’m particularly interested in building robust Backend Systems, exploring Data Science and Machine Learning, and developing intelligent Automation and Robotics solutions. Always curious, always creating.
 </p>
 
 ---
