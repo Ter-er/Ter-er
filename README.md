@@ -27,6 +27,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" />
+  <img src="https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgres" />
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
