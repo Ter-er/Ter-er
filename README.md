@@ -26,6 +26,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" />
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
@@ -36,7 +37,7 @@
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Ter-er" target="_blank">
+  <a href="https://www.linkedin.com/in/ter-er-gbem" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ter--er-blue?style=flat&logo=linkedin" />
   </a>
 </p>
