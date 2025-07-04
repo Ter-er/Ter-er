@@ -1,53 +1,42 @@
+<!-- README.md -->
 
-# Hi there 👋, I'm **Ter-er**
-
-<!-- BIO START -->
-[Your bio here]
-<!-- BIO END -->
-
----
-
-## 🛠 Skills & Tools
-
-- **Backend**: Django  
-- **Database**: Postgres  
-- **Version Control**: Git  
+<h1 align="center">Hi there 👋, I'm Ter-er</h1>
+<p align="center">
+  <em>A passionate developer with a love for clean code and continuous learning.</em>
+</p>
 
 ---
 
-## 📊 Languages Experience
-
-<!-- GENERATED_LANG_BARS_START -->
-<!--
-This section updates via GitHub Action or Shields integration.
-Example format:
-![Python](https://img.shields.io/badge/Python-75%25-blue)
--->
-![Python](https://img.shields.io/github/languages/top/Ter-er/Ter-er?label=Python&style=flat-square)
-![Django Template](https://img.shields.io/github/languages/top/Ter-er/Ter-er?label=Django%20Template&style=flat-square)
-![Shell](https://img.shields.io/github/languages/top/Ter-er/Ter-er?label=Shell&style=flat-square)
-![HTML](https://img.shields.io/github/languages/top/Ter-er/Ter-er?label=HTML&style=flat-square)
-<!-- GENERATED_LANG_BARS_END -->
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ter-er&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
+</p>
 
 ---
 
-## 🔗 Connect
+## 📊 Language Experience
 
-[LinkedIn](#)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ter-er&layout=compact&langs_count=10&theme=dark&hide_progress=false" />
+</p>
 
+---
 
+## 🧰 Tools & Technologies
 
-<!--
-**Ter-er/Ter-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Ter-er" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ter--er-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
