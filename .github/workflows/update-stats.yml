@@ -1,0 +1,22 @@
+name: Update README with Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Every Monday
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LANGUAGE: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
