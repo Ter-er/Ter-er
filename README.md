@@ -39,7 +39,7 @@
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ter-er-gbem" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ter-er-gbem" target="blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Ter--er-blue?style=flat&logo=linkedin" />
   </a>
 </p>
